@@ -1,0 +1,1 @@
+# Scene-Classification-using-Bag-of-Words-approach-and-Spatial-Pyramid-Matching
